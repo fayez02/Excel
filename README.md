@@ -1,2 +1,2 @@
 # Excel
-A collection of Excel-based data analysis projects showcasing advanced formulas (INDEX-MATCH, XLOOKUP, COUNTIFS), Power Query transformations, dashboard creation, automation, and data-driven decision-making.
+Excel-based data analytics projects featuring VBA automation, Power Query transformations, Pivot Tables, Power Pivot data modeling, dynamic dashboards, and advanced functions (XLOOKUP, INDEX-MATCH, COUNTIFS).
